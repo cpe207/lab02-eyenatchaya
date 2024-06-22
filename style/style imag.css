@@ -1,0 +1,12 @@
+img {
+    max-width: 300px; 
+    height: auto;
+    display: block; 
+    margin: 0 auto; 
+    float: left; 
+    margin: right 20px;
+}
+
+.text-beside-image {
+    overflow: hidden; 
+}
